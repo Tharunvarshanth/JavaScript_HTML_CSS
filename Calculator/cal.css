@@ -1,0 +1,17 @@
+.viewsize{
+    background-color:#ffffe6;
+    width :60px;
+    height:35px;
+}
+.view{
+    background-color:#faf5d7;
+    width:200px ;
+    height:30px;
+    color:#e600ac;
+}
+.equal{
+    width:125px;
+    height:35px;
+    background-color:#ffffe6;
+
+}
